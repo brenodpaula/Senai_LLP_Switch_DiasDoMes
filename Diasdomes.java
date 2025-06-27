@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class diasdomes {
+public class Diasdomes {
 
     public static void main(String[] args) throws IOException {
         BufferedReader leia = new BufferedReader(new InputStreamReader(System.in));
